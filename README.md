@@ -1,6 +1,14 @@
-# Hotel Booking Website
+<div align="center">
+    
+  <h2 align="center">Hotel Booking Website</h2>
 
-This website is designed to provide a user-friendly interface for booking hotel accommodations. It allows users to easily select their check-in and check-out dates, specify the number of rooms required, and provide details regarding the number of adults and children accompanying them. Please note that this website currently focuses on the frontend implementation only and does not include backend functionality.
+  This website is designed to provide a user-friendly interface for booking hotel accommodations. It allows users to easily select their check-in and check-out dates, specify the number of rooms required, and provide details regarding the number of adults and children accompanying them. Please note that this website currently focuses on the frontend implementation only and does not include backend functionality.
+
+  <a href="https://omar-alabyadh.github.io/Level/"><strong>➥ Live Demo</strong></a>
+
+</div>
+
+<br />
 
 ## Features
 
